@@ -43,3 +43,5 @@ Configurations can be updated in `.prettierrc`
 ### UI5 Language Assistant
 
 VSCode Extension: https://marketplace.visualstudio.com/items?itemName=SAPOSS.vscode-ui5-language-assistant
+
+
