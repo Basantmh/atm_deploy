@@ -10,7 +10,7 @@ modules:
     type: com.sap.fiori.app
     path: ./dist
     parameters:
-      html5-app-name: 'ui5boilerplate-test'
-      html5-app-display-name: 'ui5boilerplate-test'
+      html5-app-name: 'ui5boilerplate'
+      html5-app-display-name: 'ui5boilerplate'
       minimum-sapui5-version: 1.44.10
       html5-app-version: 1.0.0-${timestamp}
